@@ -418,6 +418,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 * [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
+* [Workerman](https://github.com/walkor/Workerman) - Another event driven non-blocking I/O library.
 
 ## Logging
 *Libraries for generating and working with log files.*
